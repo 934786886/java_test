@@ -65,5 +65,8 @@ public class Method {
     public void test9(){
         System.out.println("这是新添加的代码");
     }
-
+    @Test
+    public void test10(){
+        System.out.println("这是第二次添加的代码");
+    }
 }
