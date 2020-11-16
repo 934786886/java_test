@@ -73,4 +73,8 @@ public class Method {
     public void test12(){
        System.out.println("新的测试");
    }
+   @Test
+    public void test13(){
+       System.out.println("这是最新一次修改");
+   }
 }
